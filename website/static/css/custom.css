@@ -14,3 +14,8 @@
 
 @media only screen and (min-width: 1500px) {
 }
+
+.siteNavItemActive {
+    border-bottom: 3px solid white;
+    font-size: 18px;
+}

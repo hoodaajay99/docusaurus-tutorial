@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'C Language', // Title for your website.
+  title: 'C LANGUAGE COURSE', // Title for your website.
   tagline: 'Learn Programming in C',
   url: 'https://hoodaajay99.github.io', // Your website URL
   baseUrl: '/docusaurus-tutorial/', // Base URL for your project */
@@ -38,9 +38,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: '00-Welcome/about-me', label: 'Start the Course'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: '00-Welcome/about-me', label: 'START THE COURSE'},
+    {page: 'help', label: 'HELP'},
+    {blog: true, label: 'BLOG'},
   ],
 
   // If you have users set above, you add it here:
@@ -53,8 +53,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#8e44ad',
-    secondaryColor: '#257676',
+    primaryColor: '#89308D',
+    secondaryColor: '#97359B',
   },
 
   /* Custom fonts for website */
