@@ -1,5 +1,8 @@
 {
   "docs": {
-    "Introduction": ["introduction"]
+    "Welcome": [
+      "00-Welcome/about-me",
+      "00-Welcome/what-you-learn"
+    ]
   }
 }
